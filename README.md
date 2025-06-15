@@ -5,6 +5,8 @@ I build apps using Jetpack Compose, MVVM, Room, Retrofit, and Material Design.
 
 ### 🔭 Projects I am working on
 
+- **KBeat** – 🎧 Offline music player app using Jetpack Compose, ExoPlayer, Room, and Hilt  
+  [GitHub Link](https://github.com/MeteorBlitz/KBeat)
 - **FoodHub** – Food ordering app  
   [GitHub Link](https://github.com/MeteorBlitz/FoodHub)  
 - **JetWeatherForecast** – Weather forecast app using Jetpack Compose  
