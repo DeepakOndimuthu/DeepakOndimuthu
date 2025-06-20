@@ -22,5 +22,7 @@ I build apps using Jetpack Compose, MVVM, Room, Retrofit, and Material Design.
 
 - Email: dlipkumar77@gmail.com  
 - LinkedIn: [Deepak Ondimuthu](https://linkedin.com/in/deepak-ondimuthu-752856a8)
+- [View My Resume (PDF)](https://github.com/MeteorBlitz/MeteorBlitz/blob/main/resume/Deepak_Resume_2025.pdf)
+
 
 Thanks for visiting my profile! 😊
