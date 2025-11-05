@@ -29,7 +29,7 @@ I build apps using Jetpack Compose, MVVM, MVI, Room, Retrofit, and Material Desi
 ### 📫 How to reach me
 
 - 📧 **Email**: [dlipkumar77@gmail.com](mailto:dlipkumar77@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/deepak-ondimuthu-752856a8](https://linkedin.com/in/deepak-ondimuthu-752856a8)  
-- 📄 **Resume**: [View My Resume (PDF)](https://github.com/DeepakOndimuthu/MeteorBlitz/blob/main/resume/Deepak_Resume_2025.pdf)
+- 💼 **LinkedIn**: [linkedin.com/in/deepak-ondimuthu-752856a8](https://linkedin.com/in/deepak-ondimuthu-752856a8)
+- 📄 **Resume**: [View My Resume (PDF)](https://github.com/DeepakOndimuthu/DeepakOndimuthu/blob/main/resume/deepak_android.pdf)
 
 Thanks for visiting my profile! 😊
